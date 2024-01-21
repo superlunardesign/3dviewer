@@ -1,0 +1,36 @@
+newmtl Default Material Layer Stack
+illum 7
+Kd 0.815686 0.815686 0.815686
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm NaturalSoaps/Default Material Layer Stack_metallic.png
+adobe_map_translucence NaturalSoaps/Default Material Layer Stack_translucence.png
+map_Pr NaturalSoaps/Default Material Layer Stack_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd NaturalSoaps/Default Material Layer Stack_baseColor.png
+
+newmtl Wax 3
+illum 7
+Kd 1 0.960784 0.921569
+adobe_interior_color 1 0.988036 0.949056
+Ni 0.36
+adobe_density 0.97
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0.1
+Pr 0.76
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+map_Kd NaturalSoaps/Wax 3_baseColor.png
+norm NaturalSoaps/Wax 3_normal.png
